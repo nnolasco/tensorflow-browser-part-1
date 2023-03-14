@@ -1,6 +1,42 @@
-# Getting Started with Create React App
+# Simple Object Detection Using TensorFlow in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains an example implementation of a simple object detection web application using TensorFlow.js and React.js. The app utilizes a pre-trained model to detect objects in images, and is designed to be easy to understand and extend.
+
+This code accompanies the Medium article I wrote at (https://medium.com/@normnolasco/simple-object-detection-using-tensorflow-in-react-part-1-2c62c7e97cb1)
+
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Customizing the Model](#customizing-the-model)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Real-time object detection using a pre-trained TensorFlow.js model
+- Interactive user interface built with React.js
+- Customizable model options for easy adaptation and experimentation
+- Responsive design for mobile and desktop devices
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js 14.x or higher
+- Yarn 1.x or higher
+- A modern web browser (e.g., Chrome, Firefox, Safari)
+
+## Getting Started
+
+Clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/nnolasco/tensorflow-browser-part-1.git
+cd tensorflow-browser-part-1
+yarn
 
 ## Available Scripts
 
