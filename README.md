@@ -1,9 +1,9 @@
 # Simple Object Detection Using TensorFlow in React
 
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2014.x-green)
 ![Yarn](https://img.shields.io/badge/Yarn-%3E%3D%201.x-blue)
-
+![React](https://img.shields.io/badge/React-%5E17.x-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2014.x-green)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
 
 This repository contains an example implementation of a simple object detection web application using TensorFlow.js and React.js. The app utilizes a pre-trained model to detect objects in images, and is designed to be easy to understand and extend.
 
