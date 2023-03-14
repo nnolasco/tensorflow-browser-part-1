@@ -10,7 +10,6 @@ This code accompanies the Medium article I wrote at (https://medium.com/@normnol
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Customizing the Model](#customizing-the-model)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -37,8 +36,9 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/nnolasco/tensorflow-browser-part-1.git
 cd tensorflow-browser-part-1
 yarn
+```
 
-## Available Scripts
+## Usage
 
 In the project directory, you can run:
 
@@ -104,3 +104,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nnolasco/tensorflow-browser-part-1/issues) or create a pull request. Please follow the [contribution guidelines](CONTRIBUTING.md) to ensure a smooth collaboration process.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
