@@ -1,10 +1,10 @@
-# Contributing to [Project Name]
+# Contributing to Simple Object Detection Using TensorFlow in React
 
-First of all, thank you for your interest in contributing to [Project Name]! We appreciate your time and effort to help improve this project. This document outlines the process for contributing to the project and will help you get started.
+First of all, thank you for your interest in contributing to my project! We appreciate your time and effort to help improve this project. This document outlines the process for contributing to the project and will help you get started.
 
 ## Code of Conduct
 
-By participating in this project, you are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md). Please read and follow it to ensure a friendly and welcoming environment for everyone.
+By participating in this project, you are expected to uphold our Code of Conduct. Please read and follow it to ensure a friendly and welcoming environment for everyone.
 
 ## How to Contribute
 
