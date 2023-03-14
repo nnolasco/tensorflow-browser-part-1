@@ -1,5 +1,10 @@
 # Simple Object Detection Using TensorFlow in React
 
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2014.x-green)
+![Yarn](https://img.shields.io/badge/Yarn-%3E%3D%201.x-blue)
+
+
 This repository contains an example implementation of a simple object detection web application using TensorFlow.js and React.js. The app utilizes a pre-trained model to detect objects in images, and is designed to be easy to understand and extend.
 
 This code accompanies the Medium article I authored [Simple Object Detection Using TensorFlow in React — Part 1](https://medium.com/@normnolasco/simple-object-detection-using-tensorflow-in-react-part-1-2c62c7e97cb1)
