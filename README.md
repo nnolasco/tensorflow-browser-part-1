@@ -107,7 +107,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nnolasco/tensorflow-browser-part-1/issues) or create a pull request. Please follow the [contribution guidelines](CONTRIBUTING.md) to ensure a smooth collaboration process.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/nnolasco/tensorflow-browser-part-1/issues) or create a pull request. Please follow the [contribution guidelines](contributing.md) to ensure a smooth collaboration process.
 
 ## License
 
